@@ -7,4 +7,4 @@
 
 # Requirements Install Guide:
 - In Windows Terminal Type in :
-  - pip install -r Requirements.txt
+  - pip install -r requirements.txt
