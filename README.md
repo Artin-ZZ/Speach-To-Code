@@ -10,3 +10,7 @@
 # Requirements Install Guide:
 - In Windows Terminal Type in :
   - pip install -r requirements.txt
+
+# Credits:
+- Artin Zafari
+- artinzafari@gmail.com
